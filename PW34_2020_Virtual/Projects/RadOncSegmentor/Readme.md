@@ -40,10 +40,10 @@ The goal for this project is to present to people about the various deep learnin
 - Lung tumor segmentation from CT: Jiang J, Hu Y.C, Liu C.J, Halpenny D, Hellmann M.D, Deasy J.O, Mageras G, Veeraraghavan H, "Multiple resolution residually connected feature streams for automatic lung tumor segmentation from CT images", IEEE Trans. Med Imaging, 38(1): 134-144, 2019. 
 - Lung organs segmentation:
   - [Um H, Jiang J, Thor M, Rimner A, Luo L, Deasy J.O, Veeraraghavan H, "Multiple resolution residual network for automatic thoracic organs at risk segmentation from CT"] (https://arxiv.org/abs/2005.13690), in MIDL 2020.
-  - Haq R, Hotca A, Apte A, Rimner A, Deasy J.O, Thor M, "Cardio-pulmonary substructre segmentation of radiotherapy computed tomography images using convolutional neural networks for clinical outcomes analysis", phiRO, 2020
+  - Haq R, Hotca A, Apte A, Rimner A, Deasy J.O, Thor M, "Cardio-pulmonary substructure segmentation of radiotherapy computed tomography images using convolutional neural networks for clinical outcomes analysis", phiRO, 2020
 - Head and neck organs:
   - [Jiang J, Elguindi S, Um H, Berry S, Veeraraghavan H, "Local block-self attention for normal organ segmentation"] (https://arxiv.org/abs/1909.05054)
-  - [Iyer A, Thor M, Haq R, Deasy J.O, Apte A](https://www.biorxiv.org/content/10.1101/772178v2.full)
+  - [Iyer A, Thor M, Haq R, Deasy J.O, Apte A, "Deep learning-based auto-segmentation of swallowing and chewing structures"](https://www.biorxiv.org/content/10.1101/772178v2.full)
 - Prostate organs:
   - Elguindi S, Zelefsky M, Jiang J, Veeraraghavan H, Deasy J.O, Hunt M, Tyagi N, "Deep learning-based auto-segmentation of targets and organs-at-risk for magnetic resonance imaging only planning for prostate radiotherapy", phiRo 2019.
   
