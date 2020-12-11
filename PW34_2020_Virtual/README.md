@@ -59,7 +59,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. OHIF web applications  (Erik Ziegler)
 1. [aevaSlicer volumetric mesh generation from segmentations](Projects/aevaSlicer/Readme.md) (Sam Horvath)
 1. Slicer Segmentation Editor (Andras)
-1. RadOncSegmentor Segmentation for Radiation Treatment Planning (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
+1. [RadOncSegmentor Segmentation for Radiation Treatment Planning](Projects/RadOncSegmentor/readme.md) (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
 1. Landmark Curves for Brain Images (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS)
 1. [Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/README.md) (Arvind Gopu)
 1. [NCI Imaging Data Commons](Projects/ImagingDataCommons/README.md) (Andrey Fedorov,Steve Pieper, Ron Kikinis)
