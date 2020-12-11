@@ -3,7 +3,7 @@
 ## Key Investigators
 - [Harini Veeraraghavan](https://github.com/harveerar) (MSKCC)
 - Aditya P. Apte, (MSKCC)
-- [Eve M. LoCastro] (https://github.com/locastre) (MSKCC)
+- [Eve M. LoCastro](https://github.com/locastre) (MSKCC)
 - Jue Jiang (MSKCC)
 - Sharif Elguindi (MSKCC)
 - Aditi Iyer (MSKCC)
